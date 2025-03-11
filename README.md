@@ -1,12 +1,3 @@
-<div align="center" style="margin-bottom: 2rem;">
-  <h1 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; background: linear-gradient(45deg, #3B82F6, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Aman Reddy
-  </h1>
-  <p style="font-size: 1.125rem; color: #64748B; margin-bottom: 1.5rem;">
-    Research Scientist | Software Engineer
-  </p>
-</div>
-
 ## About Me
 <div style="background-color: #F1F5F9; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
   <p style="color: #334155; line-height: 1.625;">
