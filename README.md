@@ -11,5 +11,6 @@ I use GitLab (self-hosted) for version control and CI/CD pipelines, and Docker (
 
 ## Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/reddyaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reddyaman/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/reddyaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="25" /></a>
+<a href="https://www.linkedin.com/in/reddyaman/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://www.linkedin.com/in/reddyaman/" height="30" width="25" /></a>
 </p>
