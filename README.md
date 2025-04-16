@@ -11,7 +11,7 @@ I use GitLab (self-hosted) for version control and CI/CD pipelines, and Docker (
 
 ## Connect with Me
 <p align="left">
-  <a href="https://leetcode.com/u/reddyaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" height="30" width="120" /></a>
-<a href="https://www.linkedin.com/in/reddyaman/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="50" width="50" /></a>  
-<a href="https://www.hackerrank.com/profile/reddyaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="29" width="27" /></a>
+  <a href="https://leetcode.com/u/reddyaman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/reddyaman/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="50" width="50" /></a>  
+<a href="https://www.hackerrank.com/profile/reddyaman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="29" width="27" /></a>
 </p>
