@@ -1,7 +1,7 @@
 ## About Me
 <div style="background-color: #F1F5F9; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
   <p style="color: #334155; line-height: 1.625;">
-   I am a <b>Software Engineer</b> currently working as a <b>Research Scientist (IT)</b> at SAMEER, an autonomous R&D organization under MeitY, Government of India. I have over 2+ years of experience in developing and deploying software applications on Linux-based servers.
+   I am a <b>Software Engineer</b> currently working as a <b>Research Scientist (IT)</b> at SAMEER, an autonomous R&D organization under MeitY, Government of India. I have over 3+ years of experience in developing and deploying software applications on Linux-based servers.
 
 My core technical expertise in PHP, Laravel, Livewire, JavaScript, AJAX, Node.js, jQuery, and MySQL. I also work with Tailwind CSS, Bootstrap 5, and Apache2 to build user-friendly, responsive, and secure web applications.
 
